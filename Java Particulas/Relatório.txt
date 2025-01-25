@@ -1,5 +1,7 @@
 ## Relatório: Simulação de Partículas com Multithreading
 
+## O trabalho foi desenvolvido no VSCode e rodado usando o CMD.
+
 ### Introdução
 O multithreading é uma técnica que permite que várias partes de um programa sejam executadas simultaneamente, aproveitando os múltiplos núcleos de uma CPU moderna. Essa abordagem é especialmente útil em aplicações que demandam muito processamento, como simulações de partículas em jogos digitais. A ideia é distribuir o cálculo do movimento das partículas entre várias threads para melhorar o desempenho da aplicação e garantir uma experiência de usuário mais fluida.
 
